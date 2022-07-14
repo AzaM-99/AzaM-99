@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aza
-- 👀 I’m interested in computing and coding
+- 👀 I’m interested in computing, coding, video games, NGN and IoT... 
 - 🌱 I’m currently learning React and solidity
 
 <!---
